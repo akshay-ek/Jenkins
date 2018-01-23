@@ -4,7 +4,7 @@
 
  #### Steps for creating good issues or pull requests:
 
-	- Include your Jira Ticket Number along with the description.
+	* Include your Jira Ticket Number along with the description.
 		e.g BHAGEERA-40 : Nightly Builds and Test
 	- If Jira Ticket is unavailable, write proper cases what is this fix for.
 
