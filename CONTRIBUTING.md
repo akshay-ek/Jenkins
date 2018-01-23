@@ -1,4 +1,6 @@
-CONTRIBUTING
+# CONTRIBUTING TO BAGHEERA
+
+:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
  #### Steps for creating good issues or pull requests:
 
