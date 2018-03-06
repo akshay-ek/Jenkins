@@ -1,6 +1,7 @@
 # CONTRIBUTING TO BAGHEERA, Please include your statements inside the angle brackets
 
-Summary : <A one line description of the bug/feature, this will go into summary section of release notes>
+Summary 	 : <A one line description of the bug/feature, this will go into summary section of 
+		  release notes>
 
 Description	 : <A detailed technical description of the bug/feature>
 
