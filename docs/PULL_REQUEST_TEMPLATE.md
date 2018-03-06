@@ -1,23 +1,13 @@
 # CONTRIBUTING TO BAGHEERA
 
-:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+* #### Summary		: <A one line description of the bug/feature, this will go into summary section of release notes>
 
- * #### Steps for creating good issues or pull requests:
+* #### Description	: <A detailed technical description of the bug/feature>
 
-	* Include your Jira Ticket Number along with the description.
-		e.g BHAGEERA-40 : Nightly Builds and Test
-	* If Jira Ticket is unavailable, write proper cases what is this fix for.
+* #### Jira Tracking Id	: <Jira-Id1, Jira-Id2>
 
-* #### Links to external documentation:
+* #### Known-Issues	: <Any known issues>
 
-	* Give the Jira ticket Link. e.g https://netradyne.atlassian.net/browse/BHAGEERA-40
+* #### QA-note		: <Steps to be followed by QA for validating>
 
-* #### Testing Steps:
-
-	* Write the scenarios when this issue can be seen
-	* Suggest the steps for testing the fix
-
-* #### Scenarios:
-
-	* Please suggest if any corner cases for this fix is there
-	* Also suggest if this fix is impacting any issue
+* #### Notes		: <Any other notes, optional>
